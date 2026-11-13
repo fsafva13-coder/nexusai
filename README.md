@@ -49,7 +49,7 @@ Studying how agent strategies (cooperate, compete, retaliate) play out in shared
 ![Metrics over time](docs/summary-2.png)
 *Average resources by strategy and cooperation versus inequality across 100 ticks, plus the LLM planner status line.*
 
-Live demo: [add link after deploying]
+Live demo: https://nexusai-topaz-three.vercel.app (the backend is on a free plan and sleeps when idle, so the first load can take about a minute)
 
 ## Installation
 
@@ -195,7 +195,7 @@ Limitations: the policies and payoffs are hand-written and hand-tuned, so result
 
 ## Demo / Live Link
 
-[add link after deploying]
+Live demo: https://nexusai-topaz-three.vercel.app
 
 ## License
 
